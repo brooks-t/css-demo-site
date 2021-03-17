@@ -1,0 +1,76 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: maroon;
+    height: 50px;
+}
+
+nav {
+    display: block;
+    position: relative;
+    padding: 15px;
+    margin-right: 0;
+    text-align: right;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: orange;
+}
+
+footer {
+    background-color: maroon;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+footer > p {
+    padding-top: 15px;
+}
+
+
+main {
+
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+
+legend {
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    width: 400px;
+    margin:auto;
+    text-align: center;
+}
+
+.top-content {
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+
+.bottom-content {
+    background-color: lightblue;
+    padding: 15px;
+}
+
